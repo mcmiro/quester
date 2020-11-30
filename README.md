@@ -1,24 +1,16 @@
-# heyio-offer
+# Quester
 
-## Project setup
-```
-npm install
-```
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Survey or order form as a progress bar, built with Vue.js and TailwindCSS.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Author
 
-### Lints and fixes files
-```
-npm run lint
-```
+👤 **Miroljub Grujin <miro.grujin@hotmail.com>**
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [Demo](https://testowsky.com/quester)
+- [GitHub](https://github.com/mcmiro)
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
